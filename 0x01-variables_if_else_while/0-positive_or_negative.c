@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /*  more headers goes there */
-/*
+/**
  * main - is the entry point of the program.
  *
  * Description: if statements
