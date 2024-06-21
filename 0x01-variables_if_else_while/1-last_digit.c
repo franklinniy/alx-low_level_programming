@@ -4,12 +4,12 @@
 /* more headers goes there */
 /* betty style doc for function main goes there */
 /**
- * main- Start of the program
+ * main - is the entry point of the program.
  *
- * Description- determines the last digit and prints a message
+ * Description: if statements
  *
- * Return- return 0 program successful execution
- */
+ * Return: the result is always 0 to show success
+*/
 int main(void)
 {
 	int n;
