@@ -6,7 +6,7 @@
 /**
  * main- Start of the program
  *
- * Description- The last digit
+ * Description- used else if control structures
  *
  * Result- return 0 program success
  */
