@@ -6,9 +6,9 @@
 /**
  * main- Start of the program
  *
- * Description- used else if control structures
+ * Description- determines the last digit and prints a message
  *
- * Result- return 0 program success
+ * Return- return 0 program successful execution
  */
 int main(void)
 {
