@@ -1,9 +1,10 @@
-#include <stdio.h>
 #include "main.h"
 /**
  * _isupper-is the entry point
  *
  * Description: checks for uppercase
+ *
+ * @c: the check character
  *
  * Return: 0 for lower 1 for upper
 */
