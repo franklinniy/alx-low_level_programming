@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stddef.h>
 
 char *_strstr(char *haystack, char *needle)
 {
@@ -15,6 +16,6 @@ char *_strstr(char *haystack, char *needle)
 		if (!*n) return (haystack);
 		haystack++;
 	}
-	return (NULL);
+	return NULL;
 }
 
