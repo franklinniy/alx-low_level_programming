@@ -2,12 +2,21 @@
 
 /**
  * main - Entry point of the program
+ * @argc: Argument count
+ * @argv: Argument vector
  *
  * Return: Always 0 (Success)
  */
-int main(void)
+int main(int argc, char *argv[])
 {
-	printf("No arguments passed\n");
+	(void)argv;
+	if (argc == 1)
+	{
+		printf("0\n");
+	} else
+	{
+		printf("%d\n", argc - 1);
+	}
 	return (0);
 }
 
