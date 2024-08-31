@@ -1,4 +1,4 @@
-#include "main.h"  // Include the header file with the function prototype
+#include "main.h"
 
 /**
  * _isalpha - Checks if a character is alphabetic.
